@@ -25,7 +25,7 @@ apis:
   tags: Marketing
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/marketing/master/_listings/google-doubleclick/userprofiles-profileid-remarketinglistshares-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/marketing/master/_listings/google-doubleclick/userprofiles-profileid-remarketinglistshares-put.md
 x-common:
 - type: x-authentication
   url: https://developers.google.com/ad-exchange/buyer-rest/auth-guide
