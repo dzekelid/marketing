@@ -27,7 +27,7 @@ apis:
   tags: Marketing
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/marketing/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-remarketingaudiences-remarketingaudienceid-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery/marketing/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-remarketingaudiences-remarketingaudienceid-patch.md
 x-common:
 - type: x-blog
   url: https://analytics.googleblog.com/
