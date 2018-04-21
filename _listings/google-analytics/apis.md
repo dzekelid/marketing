@@ -12,8 +12,8 @@ tags:
 - Google APIs
 - Analytics
 - Analysis
-created: "2018-03-23"
-modified: "2018-03-23"
+created: "2018-04-20"
+modified: "2018-04-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-analytics/apis.yaml
 specificationVersion: "0.14"
 apis:
@@ -27,7 +27,7 @@ apis:
   tags: Marketing
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-remarketingaudiences-remarketingaudienceid-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-remarketingaudiences-get.md
 x-common:
 - type: x-blog
   url: https://analytics.googleblog.com/
