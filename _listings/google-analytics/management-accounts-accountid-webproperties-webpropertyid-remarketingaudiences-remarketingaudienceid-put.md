@@ -1,8 +1,8 @@
 ---
 swagger: "2.0"
 info:
-  title: Google Analytics
-  description: Views and manages your Google Analytics data.
+  title: Google Analytics Update Remarketing Audience
+  description: Updates an existing remarketing audience.
   contact:
     name: Google
     url: https://google.com
