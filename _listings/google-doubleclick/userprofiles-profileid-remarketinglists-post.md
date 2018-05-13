@@ -1,8 +1,9 @@
 ---
 swagger: "2.0"
 info:
-  title: Google Doubleclick Merged API
+  title: Google Doubleclick API Insert Remarketing List
   version: 1.0.0
+  description: Inserts a new remarketing list.
 schemes:
 - http
 produces:
