@@ -29,15 +29,14 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-remarketingaudiences-remarketingaudienceid-put.md
 - name: Google Analytics Update Remarketing Audience
-  description: Updates an existing remarketing audience. This method supports patch
-    semantics.
+  description: Updates an existing remarketing audience.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/logo_lockup_analytics_icon_vertical_black_2x.png
   humanURL: https://www.google.com/analytics/#?modal_active=none
   baseURL: https://www.googleapis.com//analytics/v3
   tags: Marketing
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-remarketingaudiences-remarketingaudienceid-patch.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-analytics/management-accounts-accountid-webproperties-webpropertyid-remarketingaudiences-remarketingaudienceid-put.md
 x-common:
 - type: x-blog
   url: https://analytics.googleblog.com/
