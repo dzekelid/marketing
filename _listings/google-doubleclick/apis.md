@@ -26,15 +26,15 @@ apis:
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-doubleclick/userprofiles-profileid-targetableremarketinglists-id-get.md
-- name: Google Doubleclick API Update Remarketing List Shares
-  description: Updates an existing remarketing list share.
+- name: Google Doubleclick API Get Remarketing List Shares
+  description: Gets one remarketing list share by remarketing list ID.
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-double-click.png
   humanURL: https://www.doubleclickbygoogle.com/
   baseURL: https://{host}//
   tags: Marketing
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-doubleclick/userprofiles-profileid-remarketinglistshares-put.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/google-doubleclick/userprofiles-profileid-remarketinglistshares-remarketinglistid-get.md
 x-common:
 - type: x-authentication
   url: https://developers.google.com/ad-exchange/buyer-rest/auth-guide
