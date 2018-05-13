@@ -1,8 +1,10 @@
 ---
 swagger: "2.0"
 info:
-  title: Google Doubleclick Merged API
+  title: Google Doubleclick API Update Remarketing List Shares
   version: 1.0.0
+  description: Updates an existing remarketing list share. This method supports patch
+    semantics.
 schemes:
 - http
 produces:
