@@ -1,0 +1,318 @@
+{
+	"name": "Streadata.io API Gallery - Marketing",
+	"description": "This is a repository of marketing APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/marketing.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://marketing.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Constant Contact",
+			"x-api-slug": "constant-contact",
+			"description": "With Constant Contact, you can create effective email marketing and other online marketing campaigns to meet your business goals. Start your FREE trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/171-constant-contact.jpg",
+			"humanURL": "http://blogs.constantcontact.com",
+			"baseURL": "https://api.constantcontact.com//v2",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/constant-contact/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HubSpot",
+			"x-api-slug": "hubspot",
+			"description": "HubSpot is on a mission to replace the world&rsquo;s annoying, interruptive marketing with marketing that people love. HubSpot software is the most powerful, tightly integrated and comprehensive marketing software available, putting personalized inbound marketing into the hands of any business. Over 8,000 companies in 56 countries use our software to create lovable inbound marketing to attract, nurture and convert leads into an accelerating stream of new customers and revenue. HubSpot is also the developer of the popular website analysis tool, MarketingGrader.com, which has over 3 million users and grades upwards of 250,000 companies per month.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/213-hubspot-product-team.jpg",
+			"humanURL": "http://www.hubspot.com/",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/hubspot/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MailChimp",
+			"x-api-slug": "mailchimp",
+			"description": "MailChimp is a marketing platform for small businesses. Send beautiful emails, connect your e-commerce store, advertise, and build your brand. Sign up today for free email marketing, landing pages, and marketing automation tools that help you sell more...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/224-mailchimp.jpg",
+			"humanURL": "http://apidocs.mailchimp.com/",
+			"baseURL": "https://{dc}.api.mailchimp.com//2.0",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/mailchimp/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Moz",
+			"x-api-slug": "moz",
+			"description": "Backed by the largest community of SEOs on the planet, Moz builds tools that make SEO, inbound marketing, link building, and content marketing easy. Start your free 30-day trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/473-seomoz.jpg",
+			"humanURL": "http://www.seomoz.org",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/moz/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "VerticalResponse",
+			"x-api-slug": "verticalresponse",
+			"description": "Email Marketing by VerticalResponse makes it easy to send email newsletters, offers, invitations and autoresponders to grow your business. Its free!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/517-verticalresponse.jpg",
+			"humanURL": "http://verticalresponse.com",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/verticalresponse/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Sendloop",
+			"x-api-slug": "sendloop",
+			"description": "Build a long-lasting communication with your customers. Marketing automation and email marketing are the two most powerful channels.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/651-sendloop.jpg",
+			"humanURL": "http://sendloop.com/",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/sendloop/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Mailjet",
+			"x-api-slug": "mailjet",
+			"description": "Streamline your emailing and boost your sales with Mailjet. We serve all your email and SMS needs with one simple and powerful solution. You can try it now with 6000 emails/mo absolutely free. Sign up now, or read more about how we can help your busine...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/843-mailjet.jpg",
+			"humanURL": "http://mailjet.com",
+			"baseURL": "https://api.mailjet.com/v3/REST/",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/mailjet/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PunchTab",
+			"x-api-slug": "punchtab",
+			"description": "PunchTab is a SaaS-based Consumer Management Platform (CMP) for brands to build and optimize powerful, direct consumer relationships.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/909-punchtab.jpg",
+			"humanURL": "http://www.punchtab.com",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/punchtab/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "MailUp",
+			"x-api-slug": "mailup",
+			"description": "MailUp is your complete email and SMS delivery solution that combines powerful email marketing tools with SMTP relay and plugins for e-commerce, CRM, and CMS systems",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1022-mailup.jpg",
+			"humanURL": "http://www.mailup.com/",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/mailup/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lytics",
+			"x-api-slug": "lytics",
+			"description": "Understand who your customers are, how they engage with your content, and deliver unified experiences across channels, building trust in your brand.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1443-lytics.jpg",
+			"humanURL": "http://lytics.io/",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/lytics/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Carnival.io",
+			"x-api-slug": "carnival-io",
+			"description": "We founded the worlds first iPhone app company in 2007, leading strategy and app development more than 120 apps for Fortune 500 brands. With 15x No.1 apps under our belt, we knew we had found the secret to keeping mobile communities engaged. In January 2014, we launched Carnival Mobile Marketing Suite to give brands and their agencies innovative technology to keep up with always on mobile audiences.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/carnival-logo-small.png",
+			"humanURL": "http://carnivalmobile.com/",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/carnival-io/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "CityGro",
+			"x-api-slug": "citygro",
+			"description": "CityGro was born from the philosophy that businesses who connect with their customers are simply better businesses. As the leader in the Loyalty Marketing industry, CityGro has helped thousands of businesses increase revenue through data driven communication. The flagship loyalty marketing kiosk has allowed millions of customers to connect with their favorite businesses and CityGro&rsquo;s automated loyalty marketing software has sent millions of targeted messages to drive customers to action. CityGro&rsquo;s loyalty marketing concept has proven successful in industries such as restaurants, salons, retail environments, financial institutions, trade shows and universities. And we&rsquo;re only getting started.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/citygro-logo-color.png",
+			"humanURL": "http://citygro.com/",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/citygro/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Infusionsoft",
+			"x-api-slug": "infusionsoft",
+			"description": "Infusionsoft is a private company that offers an e-mail marketing and sales platform for small businesses, including products to streamline the customer lifecycle, customer relationship management, marketing automation, lead capture, and e-commerce.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/infusionsoft-logo.jpg",
+			"humanURL": "http://www.infusionsoft.com/",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/infusionsoft/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AWS Pinpoint",
+			"x-api-slug": "aws-pinpoint",
+			"description": "Amazon Pinpoint makes it easy to run targeted campaigns to drive user engagement in mobile apps. Amazon Pinpoint helps you understand user behavior, define which users to target, determine which messages to send, schedule the best time to deliver the messages, and then track the results of your campaign.Targeted push notifications based on app usage trends and user behavior have become a popular approach for mobile app user engagement because response rates are often several times higher than tradition email marketing campaigns. By using targeted push notifications, you can increase message relevance and effectiveness, measure engagement, and continually improve your campaigns.Getting started with Amazon Pinpoint is easy. First, AWS Mobile Hub guides you through the process to integrate the AWS Mobile SDK with your app. Next, you define your target segments, campaign message, and specify the delivery schedule. Once your campaign is running, Pinpoint provides metrics so you can run analytics and track the impact of your campaign.With Amazon Pinpoint, there are no upfront setup costs, and no fixed monthly cost. You only pay for the number of users your campaign targets, the messages you send, and the events you collect, so you can start small and scale as your application grows.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-pinpoint.jpg",
+			"humanURL": "https://aws.amazon.com/pinpoint/",
+			"baseURL": ":///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/aws-pinpoint/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Talkable",
+			"x-api-slug": "talkable",
+			"description": "Talkable Social Referrals helps brands acquire new customers with endorsements from current customers. As the web becomes more person-centric, consumers trust the recommendations of their friends more than traditional advertising. By optimizing for higher conversion rates and identifying social influencers, weve achieved as high as a 58% lift in new sales.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28399-www-talkable-com.jpg",
+			"humanURL": "https://www.talkable.com",
+			"baseURL": "https:///",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/talkable/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Marketing",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Marketing",
+	"include": [
+		{
+			"name": "Constant Contact",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/constant-contact/apis.yaml"
+		},
+		{
+			"name": "HubSpot",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/hubspot/apis.yaml"
+		},
+		{
+			"name": "MailChimp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/mailchimp/apis.yaml"
+		},
+		{
+			"name": "Moz",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/moz/apis.yaml"
+		},
+		{
+			"name": "VerticalResponse",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/verticalresponse/apis.yaml"
+		},
+		{
+			"name": "Sendloop",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/sendloop/apis.yaml"
+		},
+		{
+			"name": "Mailjet",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/mailjet/apis.yaml"
+		},
+		{
+			"name": "PunchTab",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/punchtab/apis.yaml"
+		},
+		{
+			"name": "MailUp",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/mailup/apis.yaml"
+		},
+		{
+			"name": "Lytics",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/lytics/apis.yaml"
+		},
+		{
+			"name": "Carnival.io",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/carnival-io/apis.yaml"
+		},
+		{
+			"name": "CityGro",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/citygro/apis.yaml"
+		},
+		{
+			"name": "Infusionsoft",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/infusionsoft/apis.yaml"
+		},
+		{
+			"name": "AWS Pinpoint",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/aws-pinpoint/apis.yaml"
+		},
+		{
+			"name": "Talkable",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/talkable/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/marketing/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}
